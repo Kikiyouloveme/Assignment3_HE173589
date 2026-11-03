@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000001"
+    },
+    "studentCode": "SE001",
+    "fullName": "Nguyen Van An",
+    "email": "anvn@fpt.edu.vn"
+  },
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000002"
+    },
+    "studentCode": "SE002",
+    "fullName": "Tran Thi Bich",
+    "email": "bichtt@fpt.edu.vn"
+  },
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000003"
+    },
+    "studentCode": "SE003",
+    "fullName": "Le Van Cuong",
+    "email": "cuonglv@fpt.edu.vn"
+  },
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000004"
+    },
+    "studentCode": "SE004",
+    "fullName": "Pham Thi Dung",
+    "email": "dungpt@fpt.edu.vn"
+  },
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000005"
+    },
+    "studentCode": "SE005",
+    "fullName": "Hoang Van Em",
+    "email": "emhv@fpt.edu.vn"
+  },
+  {
+    "_id": {
+      "$oid": "65dd00000000000000000006"
+    },
+    "studentCode": "SE006",
+    "fullName": "Nguyen Thi Phuong",
+    "email": "phuongnt@fpt.edu.vn"
+  }
+]

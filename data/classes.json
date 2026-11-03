@@ -1,0 +1,132 @@
+[
+  {
+    "_id": {
+      "$oid": "65bb00000000000000000001"
+    },
+    "className": "SE1701",
+    "subjectId": {
+      "$oid": "65aa00000000000000000001"
+    },
+    "lecturerName": "Dr. Nguyen Minh Tuan",
+    "status": "OPEN",
+    "enrollments": [
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000001"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000002"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000003"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000004"
+        },
+        "status": "dropped"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65bb00000000000000000002"
+    },
+    "className": "SE1702",
+    "subjectId": {
+      "$oid": "65aa00000000000000000001"
+    },
+    "lecturerName": "MSc. Tran Thi Lan",
+    "status": "OPEN",
+    "enrollments": [
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000004"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000005"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000006"
+        },
+        "status": "enrolled"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65bb00000000000000000003"
+    },
+    "className": "SE1703",
+    "subjectId": {
+      "$oid": "65aa00000000000000000002"
+    },
+    "lecturerName": "Dr. Le Quoc Hung",
+    "status": "OPEN",
+    "enrollments": [
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000001"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000002"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000005"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000006"
+        },
+        "status": "dropped"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65bb00000000000000000004"
+    },
+    "className": "SE1704",
+    "subjectId": {
+      "$oid": "65aa00000000000000000004"
+    },
+    "lecturerName": "MSc. Pham Van Duc",
+    "status": "CLOSED",
+    "enrollments": [
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000003"
+        },
+        "status": "enrolled"
+      },
+      {
+        "studentId": {
+          "$oid": "65dd00000000000000000004"
+        },
+        "status": "enrolled"
+      }
+    ]
+  }
+]

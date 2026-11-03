@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "65aa00000000000000000001"
+    },
+    "code": "PRJ301",
+    "name": "Project Management",
+    "credits": 3,
+    "status": "ACTIVE"
+  },
+  {
+    "_id": {
+      "$oid": "65aa00000000000000000002"
+    },
+    "code": "SWP391",
+    "name": "Software Development Project",
+    "credits": 4,
+    "status": "ACTIVE"
+  },
+  {
+    "_id": {
+      "$oid": "65aa00000000000000000003"
+    },
+    "code": "SWR302",
+    "name": "Software Requirement",
+    "credits": 3,
+    "status": "INACTIVE"
+  },
+  {
+    "_id": {
+      "$oid": "65aa00000000000000000004"
+    },
+    "code": "SWT301",
+    "name": "Software Testing",
+    "credits": 3,
+    "status": "ACTIVE"
+  }
+]
